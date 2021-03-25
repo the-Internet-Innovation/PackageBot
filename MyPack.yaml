@@ -1,7 +1,7 @@
 # The keyphrase that when the client messages, shows the packages.
 KeyPhrase:
   Mr John 
-  # Put any keyphrase here (Note: Dont worry about Capitals or smalls. It is not sensitive to that)
+# Put any keyphrase here (Note: Dont worry about Capitals or smalls. It is not sensitive to that)
 
 # The packages that are offered. You can change the packages as well as the package names
 # from basic, advanced, premium to anything and also any number of packages.
